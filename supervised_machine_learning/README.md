@@ -19,6 +19,6 @@
 
 #### The model predictions on new data are included in the file dataset_test_with_predictions.csv with the corresponding dataset
 
-### 3. Wallmart project for predicting weekly sales 
+### 2. Wallmart project for predicting weekly sales 
 
 #### the notebook contains an EDA, a baseline linear regression model training and a regularized model regression training.
