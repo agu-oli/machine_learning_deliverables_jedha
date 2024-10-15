@@ -4,6 +4,7 @@
 
 ### In this notebook we have implemented a logistic regression model for a binary classification problem
 #### The dataset gathers data about users activity in a website
+#### The dataset source is kaggle
 #### The model predicts whether the user will suscribe to the newsletter or not
 
 ### Dataset issues
