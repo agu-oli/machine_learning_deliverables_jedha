@@ -11,3 +11,5 @@
 #### The dataset target variable is not balanced. This has consequences on the model performances
 
 #### Different methods and models are applied for improved the result of the baseline model, whose accuracy seeems good enough but the whose performance must be reconsidered when we calculate the f1-score.
+
+### The model predictions on new data are included in the file dataset_test_with_predictions.csv with the corresponding dataset
