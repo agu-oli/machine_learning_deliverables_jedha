@@ -1,5 +1,7 @@
 # converse_rate_challenge_jedha
 
+## This is a deliverable of the Jedha's Data Science and Engineering bootcamp module on Supervised Machine Learning
+
 ### In this notebook we have implemented a logistic regression model for a binary classification problem
 #### The dataset gathers data about users activity in a website
 #### The model predicts whether the user will suscribe to the newsletter or not
