@@ -5,9 +5,9 @@
   ### 2. Wallmart project 
 
 
-### 1. converse_rate_challenge_jedha project
+## 1. converse_rate_challenge_jedha project
 
-##### In this notebook we have implemented a logistic regression model for a binary classification problem
+##### In 'converse_rate_challenge.ipynb' we have implemented a logistic regression model for a binary classification problem
 ##### The dataset gathers data about users activity in a website
 ##### The dataset source is kaggle
 ##### The model predicts whether the user will suscribe to the newsletter or not
@@ -19,6 +19,9 @@
 
 #### The model predictions on new data are included in the file dataset_test_with_predictions.csv with the corresponding dataset
 
-### 2. Wallmart project for predicting weekly sales 
 
-#### The notebook contains an EDA, a baseline linear regression model training and a regularized model regression training.
+## 2. Wallmart project for predicting weekly sales 
+
+#### The 'walmart.ipynb' contains an EDA, a baseline linear regression model training and a regularized model regression training.
+
+#### The dataset file: 'Walmart_Store_sales.csv'.
