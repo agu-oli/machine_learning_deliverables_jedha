@@ -12,7 +12,7 @@
      
    #### -  A TruncatedSVD model trained on the corpus and the correspoding wordclouds describing the latent topics
   
-### 3. 'uber_project_final.ipynb'
+## 3. 'uber_project_final.ipynb'
 
    ### In this notebook the dataset 'uber-raw-data-apr14.csv' containing data from uber pickup locations in New York City in april 2014.
 
