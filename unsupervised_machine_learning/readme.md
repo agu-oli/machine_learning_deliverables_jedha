@@ -18,6 +18,6 @@
 
    ### The notebook includes:
 
-   #### -  The training of two clustering models (DSCAN and K-MEANS) and the correspoding visualisations of the identified clusters #### on a map. The visualisations consist of a hot-maps for uber pick-ups in a specific time and days.
+   ####  -  The training of two clustering models (DSCAN and K-MEANS) and the correspoding visualisations of the identified clusters #### on a map. The visualisations consist of a hot-maps for uber pick-ups in a specific time and days.
    
    #### -  Comparison of the two models results and the choose of one these models and its corresponding hot-zone map.
