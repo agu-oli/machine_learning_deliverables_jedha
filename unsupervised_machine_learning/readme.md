@@ -2,7 +2,7 @@
 
 ## 1. 'Projet_North_Face.ipynb'
 
-   ### In this notebook the dataset 'sample-data_north_face.csv', consisting of corpus of item description North Face catalogue is treated.###
+   ### In this notebook the dataset 'sample-data_north_face.csv', consisting of corpus of item description North Face catalogue is treated.
 
  ### The notebook includes:
 
